@@ -17,3 +17,13 @@ Scroll to the sensors tab and enter.
 An image similar to this will appear showing a missing sensor or sensors.
 
 ![image](Background-7.jpg)
+
+Highlight and press the * icon at the top
+
+![image](Background-6.jpg)
+
+NOTE: If the * option is not available you will be required to upgrade your Rotorflight firmware to at least RC1 or add the sensors manualy in the receiver \ telemetry options, delete all and re-discover sensors
+
+The flight controller will resart after the changes are applied.
+
+![image](Background-5.jpg)
