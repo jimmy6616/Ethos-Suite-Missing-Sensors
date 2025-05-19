@@ -27,3 +27,5 @@ NOTE: If the * option is not available you will be required to upgrade your Roto
 The flight controller will resart after the changes are applied.
 
 ![image](Background-6.jpg)
+
+NOTE: At this point its good practice to re-start the radio to remove any cache values previously stored.
