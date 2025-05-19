@@ -1,2 +1,4 @@
 # Ethos-Suite-Missing-Sensors
-WIP Missing sensor guide
+This guide will help with the error as shown below:
+
+
