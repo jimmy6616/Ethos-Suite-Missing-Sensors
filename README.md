@@ -6,7 +6,7 @@ This error is shown where the Ethos Suite LUA is not receiving a sensor(s) from 
 
 ![image](Background-3.jpg)
 
-Press the [SYS] key and scroll to the Rotorflight LUA
+Press the [SYS] key and scroll to the Rotorflight LUA, enter the LUA
 
 ![image](Background-4.jpg)
 
