@@ -22,7 +22,13 @@ Highlight and press the * icon at the top
 
 ![image](Background-5.jpg)
 
-NOTE: If the * option is not available you will be required to upgrade your Rotorflight firmware to at least RC1 or add the sensors manualy in the receiver \ telemetry options, delete all and re-discover sensors
+NOTE: If the * option is not available you will be required to upgrade your Rotorflight firmware to at least RC1 or add the sensors manualy in the receiver \ telemetry options, delete all and re-discover sensors.
+
+You can as a short cut, if so desired, enter this in the cli then enter save.
+
+set telemetry_sensors = 3,5,6,15,18,23,52,60,90,91,93,95,96,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Again, delete and re-discover sensors
 
 The flight controller will resart after the changes are applied.
 
