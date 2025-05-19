@@ -10,3 +10,10 @@ Press the [SYS] key and scroll to the Rotorflight LUA
 
 ![image](Background-4.jpg)
 
+Scroll to the sensors tab and enter.
+
+![image](Background-8.jpg)
+
+An image similar to this will appear showing a missing sensor or sensors.
+
+![image](Background-7.jpg)
